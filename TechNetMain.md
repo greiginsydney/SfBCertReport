@@ -91,7 +91,7 @@ Script Usage:
  
 
 Output:
-(snazzy image goes here)
+![Output Sample](https://github.com/skypecert/SfBCertReport/raw/master/SfBCertReportOutput.png)
 
 Verified on the following platforms
 Windows 10 	Yes
