@@ -8,3 +8,5 @@ Major contributors:
 Feature contributors:
 * Anthony Caragol
 * Amanda Debler
+
+Documentation imported from TechNet Gallery: https://github.com/skypecert/SfBCertReport/blob/master/TechNetMain.md
