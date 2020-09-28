@@ -29,7 +29,7 @@ Version Control:
     0.45 - May-26-2015 - SfB Support, retrieves Information from EDGE Servers configured in the topology and adding Parameters Support
     0.46 - May-27-2015 - Improving connectivity test and OWAS display parameters
     0.47 - September-12-2015 - Fixed SYNOPSIS description
-    0.48 - May 2016 - With the amazing help of Amanda Debler, she were able to insert a few more tests for pulling PSTN Gateway certs as well
+    0.48 - May 2016 - With the amazing help of Amanda Debler, we were able to insert a few more tests for pulling PSTN Gateway certs as well
     0.50 - July 2016 - ADded the option to work with a pre-loaded EDGE enrypted password file in order to scheduled the script to run autoamticlly  
 
 Prerequisites:
@@ -91,19 +91,23 @@ Script Usage:
  
 
 Output:
+
 ![Output Sample](https://github.com/skypecert/SfBCertReport/raw/master/SfBCertReportOutput.png)
 
-Verified on the following platforms
-Windows 10 	Yes
-Windows Server 2012 	Yes
-Windows Server 2012 R2 	No
-Windows Server 2008 R2 	Yes
-Windows Server 2008 	Yes
-Windows Server 2003 	No
-Windows Server 2016 	No
-Windows 8 	No
-Windows 7 	No
-Windows Vista 	No
-Windows XP 	No
-Windows 2000 	No 
+Verified on the following platforms:
+Version | Has it been verified?
+-------------|------------
+Windows 10 | Yes
+Windows Server 2012 | Yes
+Windows Server 2012 R2 | No
+Windows Server 2008 R2 | Yes
+Windows Server 2008 | Yes
+Windows Server 2003 | No
+Windows Server 2016 | No
+Windows 8 | No
+Windows 7 | No
+Windows Vista | No
+Windows XP | No
+Windows 2000 | No 
  
+("No" does not necessarily mean it *won't* work, just that we have not tested it with that version of Windows)
